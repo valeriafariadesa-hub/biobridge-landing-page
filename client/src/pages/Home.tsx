@@ -14,10 +14,11 @@ const translations = {
     },
     hero: {
       tagline: "Conformidade EUDR Simplificada",
-      title: "A Ponte Entre a Amazônia e a Europa",
-      description: "Um CRM móvel offline-first que capacita pequenos produtores amazônicos a comprovar que seus produtos são livres de desmatamento, desbloqueando acesso ao mercado europeu.",
+      title: "A Ponte Entre o Brasil e a Europa",
+      description: "A BioBridge é um aplicativo offline-first, que transforma informações do campo em evidências confiáveis de origem e rastreabilidade — mesmo sem internet.",
       getStarted: "Começar",
       learnMore: "Quer saber mais? Agende uma conversa.",
+
     },
     problem: {
       label: "O Problema",
@@ -34,7 +35,7 @@ const translations = {
     solution: {
       label: "A Solução",
       title: "Rastreabilidade Offline-First",
-      description: "Fechamos a divisão digital com um CRM móvel ultra-simples. Nossa interface foi desenhada com foco total no trabalhador rural, priorizando a simplicidade para quem possa não ter muita intimidade com tecnologia. Funciona sem internet, captura dados de GPS automaticamente e sincroniza com a nuvem quando a conectividade está disponível.",
+      description: "Fechamos a divisão digital com um aplicativo ultra-simples. Nossa interface foi desenhada com foco total no trabalhador rural, priorizando a simplicidade para quem possa não ter muita intimidade com tecnologia. Funciona sem internet, captura dados de GPS automaticamente e sincroniza com a nuvem quando a conectividade está disponível.",
       simpleApp: "Aplicativo Simples",
       simpleAppDesc: "Desenhado para líderes de cooperativas, não para especialistas em tecnologia.",
       qrScanning: "Escaneamento QR",
@@ -65,11 +66,11 @@ const translations = {
     },
     cta: {
       title: "Pronto para Fechar a Lacuna?",
-      description: "Vamos conversar sobre como BioBridge AI pode ajudar sua organização a acessar o mercado europeu.",
+      description: "Vamos conversar sobre como BioBridge pode ajudar sua organização a acessar o mercado europeu.",
       requestDemo: "Agendar uma Conversa",
     },
     footer: {
-      copyright: "© 2026 BioBridge AI. Todos os direitos reservados.",
+      copyright: "© 2026 BioBridge. Todos os direitos reservados.",
       privacy: "Política de Privacidade",
       terms: "Termos de Serviço",
     },
@@ -84,8 +85,8 @@ const translations = {
     },
     hero: {
       tagline: "EUDR Compliance Made Simple",
-      title: "The Bridge Between the Amazon and Europe",
-      description: "An offline-first mobile CRM that empowers small Amazonian producers to prove their products are deforestation-free, unlocking access to the EU market.",
+      title: "The Bridge Between Brazil and Europe",
+      description: "BioBridge is an offline-first app that turns field information into trusted evidence of origin and traceability — even without internet access.",
       getStarted: "Get Started",
       learnMore: "Want to learn more? Schedule a conversation.",
     },
@@ -104,7 +105,7 @@ const translations = {
     solution: {
       label: "The Solution",
       title: "Offline-First Traceability",
-      description: "We bridge the digital divide with an ultra-simple mobile CRM designed for field agents. It works without internet, captures GPS data automatically, and syncs to the cloud when connectivity is available.",
+      description: "We bridge the digital divide with an ultra-simple app designed for field agents. It works without internet, captures GPS data automatically, and syncs to the cloud when connectivity is available.",
       simpleApp: "Simple App",
       simpleAppDesc: "Designed for co-op leaders, not tech experts.",
       qrScanning: "QR Scanning",
@@ -135,11 +136,11 @@ const translations = {
     },
     cta: {
       title: "Ready to Bridge the Gap?",
-      description: "Let's talk about how BioBridge AI can help your organization access the European market.",
+      description: "Let's talk about how BioBridge can help your organization access the European market.",
       requestDemo: "Schedule a Conversation",
     },
     footer: {
-      copyright: "© 2026 BioBridge AI. All rights reserved.",
+      copyright: "© 2026 BioBridge. All rights reserved.",
       privacy: "Privacy Policy",
       terms: "Terms of Service",
     },
