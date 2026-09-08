@@ -23,7 +23,7 @@ const translations = {
     problem: {
       label: "O Problema",
       title: "$2 Bilhões USD em Exportações em Risco",
-      description: "O Regulamento de Desmatamento da UE (EUDR) exige prova digital de que produtos como café, cacau e madeira são livres de desmatamento. Pequenos produtores na Amazônia carecem de tecnologia para cumprir, arriscando seus meios de vida e sendo cortados do mercado europeu.",
+      description: "O Regulamento de Desmatamento da UE (EUDR) exige prova digital de que produtos como café, cacau e madeira são livres de desmatamento. Pequenos produtores carecem de tecnologia para cumprir, arriscando seus meios de vida e sendo cortados do mercado europeu.",
       geolocation: "Mandato de Geolocalização",
       geolocationDesc: "Cada produto deve ser rastreado para uma coordenada GPS específica.",
       connectivity: "Zero Conectividade",
@@ -173,9 +173,7 @@ export default function Home() {
       {/* Navigation */}
       <nav className="fixed top-0 left-0 right-0 z-50 bg-[#00382B] text-[#F1F7F5]">
         <div className="container flex items-center justify-between h-16">
-          <a href="/" className="font-display text-xl font-bold tracking-tight">
-            BioBridge<span className="text-[#dd6036]">AI</span>
-          </a>
+          <a href="/" className="font-display text-xl font-bold tracking-tight">BioBridge</a>
           <div className="hidden md:flex items-center gap-8 text-sm font-medium">
             <a href="#problem" className="hover:text-[#00A896] transition-colors">{t.nav.problem}</a>
             <a href="#solution" className="hover:text-[#00A896] transition-colors">{t.nav.solution}</a>
